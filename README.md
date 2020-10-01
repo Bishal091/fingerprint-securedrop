@@ -1,5 +1,6 @@
 # fingerprint-securedrop
 
+Hello there!
 [![Build Status](https://travis-ci.org/freedomofpress/fingerprint-securedrop.svg?branch=master)](https://travis-ci.org/freedomofpress/fingerprint-securedrop)
 [![Coverage Status](https://coveralls.io/repos/github/freedomofpress/fingerprint-securedrop/badge.svg?branch=travis-and-coveralls)](https://coveralls.io/github/freedomofpress/fingerprint-securedrop?branch=travis-and-coveralls)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/freedomofpress/Website_Fingerprinting)
@@ -38,7 +39,7 @@ has already been some effort in that direction, and it should be pretty easy to
 use at least the sorter and crawler if you're interested in monitoring a site
 besides SecureDrop.
 
-## Getting Started
+## Let's get Started
 
 ### Dependencies
 
